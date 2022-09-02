@@ -1,8 +1,8 @@
 public abstract class ContaBancaria {
     
-    protected String conta;
-    protected int numConta;
-    protected float saldo;
+    private String conta;
+    private int numConta;
+    private float saldo;
 
     public ContaBancaria(String conta, int numConta, float saldo) {
         this.conta = conta;
