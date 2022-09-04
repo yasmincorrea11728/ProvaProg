@@ -1,3 +1,5 @@
+package exercicio2;
+
 public class ContaPoupanca extends ContaBancaria{
 
     private int diaDeRendimento;
