@@ -1,3 +1,5 @@
+package exercicio2;
+
 public class ContaEspecial extends ContaBancaria {
 
     private double limite;
