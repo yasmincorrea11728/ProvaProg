@@ -1,3 +1,5 @@
+package exercicio2;
+
 public class ContasJava {
     public static void main(String[] args) {
         
