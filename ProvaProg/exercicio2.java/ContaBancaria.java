@@ -1,3 +1,5 @@
+package exercicio2;
+
 public abstract class ContaBancaria {
     
     private String conta;
